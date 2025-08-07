@@ -1,0 +1,506 @@
+[
+    {
+      "coordenadas": { "x": 5, "y": 8 },
+      "peso": 69.5,
+      "prioridade": "Alta",
+      "entregue": false
+    },
+    {
+      "coordenadas": { "x": 12, "y": 4 },
+      "peso": 55.3,
+      "prioridade": "Media",
+      "entregue": false
+    },
+    {
+      "coordenadas": { "x": 7, "y": 15 },
+      "peso": 82.0,
+      "prioridade": "Alta",
+      "entregue": false
+    },
+    {
+      "coordenadas": { "x": 3, "y": 9 },
+      "peso": 34.2,
+      "prioridade": "Baixa",
+      "entregue": false
+    },
+    {
+      "coordenadas": { "x": 18, "y": 6 },
+      "peso": 61.7,
+      "prioridade": "Media",
+      "entregue": false
+    },
+    {
+      "coordenadas": { "x": 10, "y": 11 },
+      "peso": 45.0,
+      "prioridade": "Alta",
+      "entregue": false
+    },
+    {
+      "coordenadas": { "x": 2, "y": 14 },
+      "peso": 78.5,
+      "prioridade": "Baixa",
+      "entregue": false
+    },
+    {
+      "coordenadas": { "x": 9, "y": 3 },
+      "peso": 50.2,
+      "prioridade": "Media",
+      "entregue": false
+    },
+    {
+      "coordenadas": { "x": 15, "y": 7 },
+      "peso": 90.1,
+      "prioridade": "Alta",
+      "entregue": false
+    },
+    {
+      "coordenadas": { "x": 6, "y": 12 },
+      "peso": 33.3,
+      "prioridade": "Baixa",
+      "entregue": false
+    },
+    {
+      "coordenadas": { "x": 8, "y": 10 },
+      "peso": 67.8,
+      "prioridade": "Media",
+      "entregue": false
+    },
+    {
+      "coordenadas": { "x": 4, "y": 5 },
+      "peso": 72.4,
+      "prioridade": "Alta",
+      "entregue": false
+    },
+    {
+      "coordenadas": { "x": 11, "y": 2 },
+      "peso": 48.9,
+      "prioridade": "Baixa",
+      "entregue": false
+    },
+    {
+      "coordenadas": { "x": 14, "y": 1 },
+      "peso": 59.6,
+      "prioridade": "Media",
+      "entregue": false
+    },
+    {
+      "coordenadas": { "x": 13, "y": 13 },
+      "peso": 88.0,
+      "prioridade": "Alta",
+      "entregue": false
+    },
+    {
+      "coordenadas": { "x": 1, "y": 16 },
+      "peso": 40.7,
+      "prioridade": "Baixa",
+      "entregue": false
+    },
+    {
+      "coordenadas": { "x": 17, "y": 8 },
+      "peso": 66.2,
+      "prioridade": "Media",
+      "entregue": false
+    },
+    {
+      "coordenadas": { "x": 19, "y": 4 },
+      "peso": 73.1,
+      "prioridade": "Alta",
+      "entregue": false
+    },
+    {
+      "coordenadas": { "x": 20, "y": 9 },
+      "peso": 54.5,
+      "prioridade": "Baixa",
+      "entregue": false
+    },
+    {
+      "coordenadas": { "x": 16, "y": 3 },
+      "peso": 81.0,
+      "prioridade": "Media",
+      "entregue": false
+    },
+    {
+      "coordenadas": { "x": 8, "y": 14 },
+      "peso": 39.8,
+      "prioridade": "Alta",
+      "entregue": false
+    },
+    {
+      "coordenadas": { "x": 2, "y": 7 },
+      "peso": 62.3,
+      "prioridade": "Baixa",
+      "entregue": false
+    },
+    {
+      "coordenadas": { "x": 9, "y": 5 },
+      "peso": 77.4,
+      "prioridade": "Media",
+      "entregue": false
+    },
+    {
+      "coordenadas": { "x": 3, "y": 11 },
+      "peso": 44.0,
+      "prioridade": "Alta",
+      "entregue": false
+    },
+    {
+      "coordenadas": { "x": 6, "y": 2 },
+      "peso": 58.9,
+      "prioridade": "Baixa",
+      "entregue": false
+    },
+    {
+      "coordenadas": { "x": 10, "y": 10 },
+      "peso": 70.5,
+      "prioridade": "Media",
+      "entregue": false
+    },
+    {
+      "coordenadas": { "x": 12, "y": 8 },
+      "peso": 65.1,
+      "prioridade": "Alta",
+      "entregue": false
+    },
+    {
+      "coordenadas": { "x": 4, "y": 6 },
+      "peso": 49.3,
+      "prioridade": "Baixa",
+      "entregue": false
+    },
+    {
+      "coordenadas": { "x": 11, "y": 1 },
+      "peso": 83.2,
+      "prioridade": "Media",
+      "entregue": false
+    },
+    {
+      "coordenadas": { "x": 15, "y": 5 },
+      "peso": 37.6,
+      "prioridade": "Alta",
+      "entregue": false
+    },
+    {
+      "coordenadas": { "x": 1, "y": 12 },
+      "peso": 74.8,
+      "prioridade": "Baixa",
+      "entregue": false
+    },
+    {
+      "coordenadas": { "x": 19, "y": 10 },
+      "peso": 60.4,
+      "prioridade": "Media",
+      "entregue": false
+    },
+    {
+      "coordenadas": { "x": 17, "y": 2 },
+      "peso": 42.1,
+      "prioridade": "Alta",
+      "entregue": false
+    },
+    {
+      "coordenadas": { "x": 20, "y": 6 },
+      "peso": 68.3,
+      "prioridade": "Baixa",
+      "entregue": false
+    },
+    {
+      "coordenadas": { "x": 14, "y": 9 },
+      "peso": 80.0,
+      "prioridade": "Media",
+      "entregue": false
+    },
+    {
+      "coordenadas": { "x": 13, "y": 4 },
+      "peso": 55.6,
+      "prioridade": "Alta",
+      "entregue": false
+    },
+    {
+      "coordenadas": { "x": 9, "y": 8 },
+      "peso": 39.9,
+      "prioridade": "Baixa",
+      "entregue": false
+    },
+    {
+      "coordenadas": { "x": 5, "y": 3 },
+      "peso": 72.2,
+      "prioridade": "Media",
+      "entregue": false
+    },
+    {
+      "coordenadas": { "x": 2, "y": 10 },
+      "peso": 66.7,
+      "prioridade": "Alta",
+      "entregue": false
+    },
+    {
+      "coordenadas": { "x": 8, "y": 1 },
+      "peso": 48.4,
+      "prioridade": "Baixa",
+      "entregue": false
+    },
+    {
+      "coordenadas": { "x": 11, "y": 6 },
+      "peso": 53.2,
+      "prioridade": "Media",
+      "entregue": false
+    },
+    {
+      "coordenadas": { "x": 3, "y": 15 },
+      "peso": 78.1,
+      "prioridade": "Alta",
+      "entregue": false
+    },
+    {
+      "coordenadas": { "x": 6, "y": 4 },
+      "peso": 64.0,
+      "prioridade": "Baixa",
+      "entregue": false
+    },
+    {
+      "coordenadas": { "x": 10, "y": 12 },
+      "peso": 71.5,
+      "prioridade": "Media",
+      "entregue": false
+    },
+    {
+      "coordenadas": { "x": 12, "y": 5 },
+      "peso": 57.9,
+      "prioridade": "Alta",
+      "entregue": false
+    },
+    {
+      "coordenadas": { "x": 4, "y": 11 },
+      "peso": 45.8,
+      "prioridade": "Baixa",
+      "entregue": false
+    },
+    {
+      "coordenadas": { "x": 18, "y": 2 },
+      "peso": 39.0,
+      "prioridade": "Media",
+      "entregue": false
+    },
+    {
+      "coordenadas": { "x": 15, "y": 9 },
+      "peso": 82.4,
+      "prioridade": "Alta",
+      "entregue": false
+    },
+    {
+      "coordenadas": { "x": 1, "y": 3 },
+      "peso": 50.1,
+      "prioridade": "Baixa",
+      "entregue": false
+    },
+    {
+      "coordenadas": { "x": 19, "y": 7 },
+      "peso": 63.6,
+      "prioridade": "Media",
+      "entregue": false
+    },
+    {
+      "coordenadas": { "x": 17, "y": 5 },
+      "peso": 76.2,
+      "prioridade": "Alta",
+      "entregue": false
+    },
+    {
+      "coordenadas": { "x": 20, "y": 8 },
+      "peso": 44.3,
+      "prioridade": "Baixa",
+      "entregue": false
+    },
+    {
+      "coordenadas": { "x": 14, "y": 10 },
+      "peso": 58.6,
+      "prioridade": "Media",
+      "entregue": false
+    },
+    {
+      "coordenadas": { "x": 13, "y": 12 },
+      "peso": 69.0,
+      "prioridade": "Alta",
+      "entregue": false
+    },
+    {
+      "coordenadas": { "x": 9, "y": 2 },
+      "peso": 37.5,
+      "prioridade": "Baixa",
+      "entregue": false
+    },
+    {
+      "coordenadas": { "x": 5, "y": 14 },
+      "peso": 80.8,
+      "prioridade": "Media",
+      "entregue": false
+    },
+    {
+      "coordenadas": { "x": 2, "y": 6 },
+      "peso": 54.2,
+      "prioridade": "Alta",
+      "entregue": false
+    },
+    {
+      "coordenadas": { "x": 8, "y": 3 },
+      "peso": 62.1,
+      "prioridade": "Baixa",
+      "entregue": false
+    },
+    {
+      "coordenadas": { "x": 11, "y": 4 },
+      "peso": 75.0,
+      "prioridade": "Media",
+      "entregue": false
+    },
+    {
+      "coordenadas": { "x": 3, "y": 10 },
+      "peso": 41.7,
+      "prioridade": "Alta",
+      "entregue": false
+    },
+    {
+      "coordenadas": { "x": 6, "y": 1 },
+      "peso": 59.4,
+      "prioridade": "Baixa",
+      "entregue": false
+    },
+    {
+      "coordenadas": { "x": 10, "y": 15 },
+      "peso": 68.0,
+      "prioridade": "Media",
+      "entregue": false
+    },
+    {
+      "coordenadas": { "x": 12, "y": 9 },
+      "peso": 49.1,
+      "prioridade": "Alta",
+      "entregue": false
+    },
+    {
+      "coordenadas": { "x": 4, "y": 8 },
+      "peso": 73.3,
+      "prioridade": "Baixa",
+      "entregue": false
+    },
+    {
+      "coordenadas": { "x": 18, "y": 11 },
+      "peso": 66.5,
+      "prioridade": "Media",
+      "entregue": false
+    },
+    {
+      "coordenadas": { "x": 15, "y": 1 },
+      "peso": 84.7,
+      "prioridade": "Alta",
+      "entregue": false
+    },
+    {
+      "coordenadas": { "x": 1, "y": 5 },
+      "peso": 38.2,
+      "prioridade": "Baixa",
+      "entregue": false
+    },
+    {
+      "coordenadas": { "x": 19, "y": 12 },
+      "peso": 70.9,
+      "prioridade": "Media",
+      "entregue": false
+    },
+    {
+      "coordenadas": { "x": 17, "y": 3 },
+      "peso": 52.8,
+      "prioridade": "Alta",
+      "entregue": false
+    },
+    {
+      "coordenadas": { "x": 20, "y": 14 },
+      "peso": 60.0,
+      "prioridade": "Baixa",
+      "entregue": false
+    },
+    {
+      "coordenadas": { "x": 14, "y": 7 },
+      "peso": 79.5,
+      "prioridade": "Media",
+      "entregue": false
+    },
+    {
+      "coordenadas": { "x": 13, "y": 5 },
+      "peso": 47.6,
+      "prioridade": "Alta",
+      "entregue": false
+    },
+    {
+      "coordenadas": { "x": 9, "y": 11 },
+      "peso": 36.4,
+      "prioridade": "Baixa",
+      "entregue": false
+    },
+    {
+      "coordenadas": { "x": 5, "y": 13 },
+      "peso": 64.8,
+      "prioridade": "Media",
+      "entregue": false
+    },
+    {
+      "coordenadas": { "x": 2, "y": 2 },
+      "peso": 58.1,
+      "prioridade": "Alta",
+      "entregue": false
+    },
+    {
+      "coordenadas": { "x": 8, "y": 4 },
+      "peso": 72.6,
+      "prioridade": "Baixa",
+      "entregue": false
+    },
+    {
+      "coordenadas": { "x": 11, "y": 10 },
+      "peso": 50.9,
+      "prioridade": "Media",
+      "entregue": false
+    },
+    {
+      "coordenadas": { "x": 3, "y": 6 },
+      "peso": 41.0,
+      "prioridade": "Alta",
+      "entregue": false
+    },
+    {
+      "coordenadas": { "x": 6, "y": 15 },
+      "peso": 67.2,
+      "prioridade": "Baixa",
+      "entregue": false
+    },
+    {
+      "coordenadas": { "x": 10, "y": 3 },
+      "peso": 75.8,
+      "prioridade": "Media",
+      "entregue": false
+    },
+    {
+      "coordenadas": { "x": 12, "y": 1 },
+      "peso": 53.4,
+      "prioridade": "Alta",
+      "entregue": false
+    },
+    {
+      "coordenadas": { "x": 4, "y": 12 },
+      "peso": 39.5,
+      "prioridade": "Baixa",
+      "entregue": false
+    },
+    {
+      "coordenadas": { "x": 18, "y": 5 },
+      "peso": 62.0,
+      "prioridade": "Media",
+      "entregue": false
+    },
+    {
+      "coordenadas": { "x": 15, "y": 8 },
+      "peso": 80.3,
+      "prioridade": "Alta",
+      "entregue": false
+    }
+]

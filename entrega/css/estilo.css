@@ -1,0 +1,15 @@
+body { 
+    font-family: sans-serif; background: #f4f4f4; padding: 20px; 
+}
+
+.card {
+    background: #fff; padding: 20px; margin-bottom: 20px; border-radius: 8px; box-shadow: 0 0 5px rgba(0,0,0,0.1); 
+}
+.drone-list {
+    display: flex; flex-wrap: wrap; gap: 12px; 
+}
+.drone-card {
+    display: flex; align-items: center; gap: 10px; background: #e0f7fa; padding: 15px; border-radius: 8px; min-width: 280px; 
+}
+.drone-icon {  font-size: 32px; 
+}

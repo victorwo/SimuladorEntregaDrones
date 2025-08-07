@@ -1,0 +1,15 @@
+[
+    {
+        "CapacidadeMaxKg": 200.0,
+        "AlcanceMaxKm": 50.0
+    },
+    {
+        "CapacidadeMaxKg": 100.0,
+        "AlcanceMaxKm": 100.0
+    },
+    {
+        "CapacidadeMaxKg": 300.0,
+        "AlcanceMaxKm": 75.0
+    }
+]
+
